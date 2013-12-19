@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<perfis>
+  <perfil nome="Guilherme">
+    <nivel>2</nivel>
+  </perfil>
+  <perfil nome="Pedro">
+    <nivel>1</nivel>
+  </perfil>
+</perfis>
